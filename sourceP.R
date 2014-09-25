@@ -1,5 +1,12 @@
 #######################################################################
+
 # I am analysing a R Dataset, then I will focus my attention on an ad hoc extracted data set. Both these analysis are carried out using both numerical tools and graphic tools.
+
+# Setting working directory
+setwd("Desktop/Hertie/1st Semester//Collaborative Social Science Data Analysis//FirstAssignment")
+
+# Linking this dataset with my groupmate's one called "women"
+source("datawomen.R")
 
 # Data loading
 data(ChickWeight)
