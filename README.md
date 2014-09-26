@@ -10,4 +10,4 @@ We linked the files, so sourceP.R runs datawomen.R
 
 Moreover, a pull request has been accepted by another group so the changes made by them are now merged with our codes
 
-> Style guide: We use Hadley Wickham´s Style Guide from <a href="r-pkgs.had.co.nz/style.html">r-pkgs.had.co.nz/style.html</a>.
+> Style guide: We use Hadley Wickham´s Style Guide from [r-pkgs.had.co.nz/style.html](http://r-pkgs.had.co.nz/style.html).
