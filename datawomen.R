@@ -23,3 +23,9 @@ sd(women$weight)
 boxplot(women$height)
 
 #we can see that the mean is in effect 65 for height
+
+citation()
+
+## R Core Team (2014). R: A language and environment for
+## statistical computing. R Foundation for Statistical Computing,
+## Vienna, Austria. URL http://www.R-project.org/.
