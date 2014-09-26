@@ -44,4 +44,10 @@ sd(ChickWeight$weight)^2
 # sd seems complicated, it is chosen to round it to the second decimal digit creating an object called StandardDeviation
 StandardDeviation<-round(sd(ChickWeight$weight),digits=2)
 
+citation()
+
+## R Core Team (2014). R: A language and environment for
+## statistical computing. R Foundation for Statistical Computing,
+## Vienna, Austria. URL http://www.R-project.org/.
+
 # The end.
